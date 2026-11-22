@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+# Raw Bluetooth HCI snoop logs (contain device MAC addresses / pairing data)
+captures/
